@@ -254,28 +254,3 @@ footer {
     }
 
 }
-
-
-/*TO DO
-X  Replace the background pattern PNG with the matching SVG (background.svg). Use CSS to resize the SVG to match the original design.
-
-X Use inline SVGs for the images of the dogs and then change the color of the dogs' coats using CSS to match the original colors of the dogs. (You can find the colors used by looking at the CSS within the SVG dog files)
-    -Replace dogs with SVG images using the <img> tag. -superseded by exceeds criteria?
-
-X  Add additional CSS effects, like transition effects to the menu icon hover state.
-
-X  Replace rasterized PNG logo with the SVG logo image (logo.svg): use the inline SVG method to add it (you'll use CSS to modify the image).
-
-X  At a page width of less than 420 pixels remove the text from the logo and add an H1 tag that contains the logo text. 
-
-X  Change icons in the menu from rasterized images to inline SVGs keeping the original image size the same.
-
-X When a user hovers over the menu icons, use CSS to change their color to match the menu item text color.
-
-X You will need to check your website in at least 3 different browsers to ensure the SVG images you have added load correctly and look the same across different browsers.
-
-When submitting your project be sure to make a note in the comments which browsers and versions you have tested with.
-
-    *And remember you can only use an 'ID' once so double check the SVG images when adding them.
-
-X Make sure to check your code is valid by running it through an HTML and CSS validator.*/
